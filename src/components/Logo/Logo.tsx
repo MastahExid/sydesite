@@ -17,8 +17,8 @@ export const Logo = (props: Props) => {
     /* eslint-disable @next/next/no-img-element */
     <img
       alt="Syde"
-      width={193}
-      height={34}
+      width={300}
+      height={70}
       loading={loading}
       fetchPriority={priority}
       decoding="async"
