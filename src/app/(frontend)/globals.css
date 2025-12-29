@@ -95,7 +95,7 @@
   background:
     radial-gradient(1200px circle at 20% 0%, rgba(59, 130, 246, 0.25), transparent 60%),
     radial-gradient(900px circle at 80% 10%, rgba(139, 92, 246, 0.18), transparent 55%),
-    linear-gradient(180deg, #020617 0%, #050b1a 100%);
+    linear-gradient(180deg, #2444CD 0%, #BF000A 100%);
   background-attachment: fixed;
  }
 }
